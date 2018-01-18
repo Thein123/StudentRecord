@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaseData</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_update">update</string>
+    <string name="title_activity_data_main">DataMain</string>
+    <string name="title_activity_data_base">DataBase</string>
+
+</resources>
